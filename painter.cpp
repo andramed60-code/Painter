@@ -1,16 +1,6 @@
 #include <iostream>
-#include <fstream>
 #include <ncurses.h>
-
-
-
-
-
-
-
-
-
-
+#include <fstream>
 int main()
 {
   initscr();
